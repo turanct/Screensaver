@@ -9,7 +9,7 @@ Screensaver is a simple Mac OSX application that executes one shell command to a
 
 
 ## How to use?
-- Get the Screensaver app from the [Downloads section](https://github.com/turanct/Screensaver/downloads) of this repository, or build it yourself.
+- Get the Screensaver app from the [Releases section](https://github.com/turanct/Screensaver/releases) of this repository, or build it yourself.
 - Place the app in your Applications folder.
 - Optionally drag the app to your dock, to have an icon in the dock.
 - Use the dock icon or Spotlight to quickly activate your screensaver (and screen lock if it is activated in system preferences)
