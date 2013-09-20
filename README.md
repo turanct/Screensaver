@@ -4,6 +4,10 @@
 ![Screensaver logo](https://raw.github.com/turanct/Screensaver/master/Matrix-icon.png)
 
 
+## What?
+Screensaver is a simple Mac OSX application that executes one shell command to activate the screensaver on OSX.
+
+
 ## How to use?
 - Get the Screensaver app from the [Downloads section](https://github.com/turanct/Screensaver/downloads) of this repository, or build it yourself.
 - Place the app in your Applications folder.
